@@ -1,0 +1,44 @@
+.App{
+    text-align: center;
+    background-color: #000000;
+    font-family: 'Roboto';
+    font-weight: normal;
+    font-size: 16px;
+    color: #707070;
+  
+}
+h1{
+    margin: 0%;
+    font-weight: 500;
+    margin-bottom: 12px;
+    color: white;
+}
+.header{
+    background-color: blue;
+    padding: 10px;
+    color: white;
+}
+.main{
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   padding: 14px; 
+}
+.movie{
+    background-color: #abb8c3;
+    color: black;
+    border: 1px solid gray;
+    padding: 3px;
+    font-weight: bold;
+    text-align: start;
+    width: 20%;
+    margin-top: 14px;
+    justify-content: center;
+    text-align: center;
+}
+.movie img{
+    height: 200px;
+    width: 150px;
+    
+}
+
